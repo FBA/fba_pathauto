@@ -1,0 +1,8 @@
+name = FBA pathauto
+description = A custom FBA Module to bring together all the submodules and installation functionality for pathauto aliases
+package = FBA Solution Pack
+version = 6.x-13.1
+dependencies[] = url_alter
+dependencies[] = subpath_alias
+dependencies[] = islandora_pathauto
+core = 6.x
